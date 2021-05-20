@@ -1,4 +1,4 @@
-# Tutorial modified from this URL
+# Modified from this Tutorial URL
 https://dev.to/uzomezu/react-calculator-app-54ha
 
 # Used these commands
